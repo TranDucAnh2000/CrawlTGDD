@@ -9,7 +9,7 @@ pip install Scrapy
 ```
 # Sử dụng
 Thao tác với console:
-1. Chạy mô trường ảo
+1. Chạy môi trường ảo
 ```bash
 venv\Scripts\activate
 ```
